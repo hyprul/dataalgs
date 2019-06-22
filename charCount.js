@@ -22,3 +22,10 @@ function isAlphaNumeric(char) {
 }
 
 console.log(charCount("Hello, hi, blah hello"))
+
+//PROBLEM SOLVING STEPS
+//UNDERSTAND THE PROBLEM
+//EXPLORE CONCRETE EXAMPLES
+//BREAK IT DOWN
+//SOLVE/SIMPLIFIY
+//LOOK BACK AND REFACTOR
