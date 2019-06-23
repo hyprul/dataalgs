@@ -18,7 +18,7 @@ function anagram(str1, str2) {
     }
 
     for (let key in str1freq) {
-        if (!key in str2freq) {
+        if (!(key in str2freq)) {
             return false
         }
         if (str2freq[key] !== str1freq[key]) {
