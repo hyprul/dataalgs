@@ -12,3 +12,9 @@ function sumZero(arr) {
         }
     }
 }
+
+//multiple pointers
+function averagePair(sortedArray, avg){
+    // add whatever parameters you deem necessary - good luck!
+    
+  }
