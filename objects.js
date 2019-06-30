@@ -5,3 +5,5 @@ let instructor = {
 }
 
 console.log(instructor.hasOwnProperty("firstName"))
+
+

@@ -14,7 +14,7 @@ function maxSum(arr, n) {
         tempSum = tempSum - arr[i - n] + arr[i];
         maxSum = Math.max(maxSum, tempSum)
     }
-
+    
     return maxSum;
 
 }
